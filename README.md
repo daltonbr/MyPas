@@ -7,4 +7,4 @@ This is a project in a course of **compilers** at UNESP (Sao Paulo State Univers
 - Dalton Lima @daltonbr
 - Guilherme Lopes Ferreira
 - Rodrigo Lino da Costa
-- Vitor Berbert
+- Maicon Berbert @kakobrt
