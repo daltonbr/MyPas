@@ -5,6 +5,6 @@ This is a project in a course of **compilers** at UNESP (Sao Paulo State Univers
 ## Authors
 
 - Dalton Lima @daltonbr
-- Guilherme Lopes Ferreira
+- Guilherme Lopes Ferreira @didaunesp
 - Rodrigo Lino da Costa
 - Maicon Berbert @kakobrt
